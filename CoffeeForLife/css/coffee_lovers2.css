@@ -1,0 +1,43 @@
+body{
+
+
+  font-family: 'IBM Plex Sans', sans-serif;
+  }
+
+  ::selection {
+    background: #9e9083; /* WebKit/Blink Browsers */
+  }
+  ::-moz-selection {
+    background: #9e9083; /* Gecko Browsers */
+  }
+
+  .userinput{
+    text-align: center;
+
+    font-size: 1.3rem;
+    margin-bottom: 10px;
+
+
+  }
+
+  #sub{
+    color: white;
+    border-radius: 30px;
+    background: #7d5633;
+    height: 70px;
+    width: 106px;
+    font-family: "Montserrat";
+    font-size: 1.2em;
+    margin-top: 8px;
+    margin-bottom: 30px;
+
+  }
+
+  .emailform{
+    text-align: center;
+
+  }
+
+h2{
+  text-align: center;
+}
